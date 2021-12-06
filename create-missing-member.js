@@ -7,6 +7,7 @@ module.exports = (label) => {
     type: 'item',
     labels: {
       en: label,
+      pt: label,
     },
     descriptions: {
       en: `politician in ${meta.jurisdiction.name}`,

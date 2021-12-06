@@ -3,7 +3,7 @@ const fs = require('fs');
 let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
-module.exports = (label, ministry) => {
+module.exports = (enlabel, ptlabel) => {
   claims = {
     P31:   { value: 'Q294414' }, // instance of: public office
     P279:  { value: 'Q83307'  }, // subclas of: minister
@@ -15,12 +15,11 @@ module.exports = (label, ministry) => {
     }
   }
 
-  if(ministry)   claims['P2389']  = ministry
-
   return {
     type: 'item',
     labels: {
-      en: label,
+      en: enlabel,
+      pt: ptlabel,
     },
     descriptions: {
       en: `cabinet position in ${meta.jurisdiction.name}`,
