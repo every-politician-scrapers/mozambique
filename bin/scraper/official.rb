@@ -7,17 +7,31 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      paragraphs.last
     end
 
     def position
-      noko.css('.position').text.tidy
+      paragraphs[-2]
+    end
+
+    def empty?
+      paragraphs.empty?
+    end
+
+    private
+
+    def paragraphs
+      noko.css('p').map(&:text).map(&:tidy).reject(&:empty?)
     end
   end
 
   class Members
+    def member_items
+      super.reject(&:empty?)
+    end
+
     def member_container
-      noko.css('.member')
+      noko.css('table.list td')
     end
   end
 end
