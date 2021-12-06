@@ -1,0 +1,177 @@
+{
+  "title": "Carlos Agostinho do Rosário",
+  "pageID": 45595151,
+  "categories": [
+    "1954 births",
+    "Alumni of Wye College",
+    "Ambassadors of Mozambique to East Timor",
+    "Ambassadors of Mozambique to Indonesia",
+    "Ambassadors of Mozambique to Malaysia",
+    "Ambassadors of Mozambique to Singapore",
+    "Ambassadors of Mozambique to Thailand",
+    "Eduardo Mondlane University alumni",
+    "FRELIMO politicians",
+    "Government ministers of Mozambique",
+    "Governors of Zambezia Province",
+    "Living people",
+    "Members of the Assembly of the Republic (Mozambique)",
+    "People from Maxixe",
+    "Prime Ministers of Mozambique"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Carlos Agostinho do Rosário (born 26 October 1954) is a Mozambican politician who has been Prime Minister of Mozambique since 17 January 2015.",
+              "links": [
+                {
+                  "text": "Prime Minister of Mozambique",
+                  "type": "internal",
+                  "page": "List of heads of government of Mozambique"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Carlos Agostinho do Rosário"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the FRELIMO and serves under President Filipe Nyusi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "FRELIMO"
+                },
+                {
+                  "type": "internal",
+                  "page": "Filipe Nyusi"
+                }
+              ]
+            },
+            {
+              "text": "He worked as a civil servant in the 1970s and was Governor of Zambezia Province between 1987 and 1994.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zambezia Province"
+                }
+              ]
+            },
+            {
+              "text": "Later he served a short while as MP in 1994 before becoming Minister of Agriculture and Fisheries, in which post he served until 1999."
+            },
+            {
+              "text": "Afterwards he became a diplomat in Asia; prior to his appointment as Prime Minister, Rosario served as Ambassador to Indonesia."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Prime Minister of Mozambique (2015-present)",
+          "template": "short description"
+        },
+        {
+          "date": "March 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1954",
+          "month": "10",
+          "day": "26",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Carlos Agostinho do Rosário de Campos"
+          },
+          "image": {
+            "text": "Mozambican Prime Minister Carlos Agostinho do Rosario.JPG"
+          },
+          "office": {
+            "text": "Prime Minister of Mozambique",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Mozambique"
+              }
+            ]
+          },
+          "president": {
+            "text": "Filipe Nyusi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Filipe Nyusi"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 January 2015"
+          },
+          "predecessor": {
+            "text": "Alberto Vaquina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alberto Vaquina"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Celso Correia"
+          },
+          "birth_date": {
+            "text": "October 26, 1954"
+          },
+          "birth_place": {
+            "text": "Maxixe, Mozambique",
+            "links": [
+              {
+                "text": "Maxixe",
+                "type": "internal",
+                "page": "Maxixe, Mozambique"
+              },
+              {
+                "text": "Mozambique",
+                "type": "internal",
+                "page": "Portuguese Mozambique"
+              }
+            ]
+          },
+          "party": {
+            "text": "FRELIMO",
+            "links": [
+              {
+                "type": "internal",
+                "page": "FRELIMO"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Eduardo Mondlane University University of London",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eduardo Mondlane University"
+              },
+              {
+                "text": "University of London",
+                "type": "internal",
+                "page": "Wye College"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

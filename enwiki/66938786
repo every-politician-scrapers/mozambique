@@ -1,0 +1,59 @@
+{
+  "title": "Beatriz Buchili",
+  "pageID": 66938786,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Federal University of Rio Grande do Sul alumni",
+    "Mozambican lawyers",
+    "Attorneys general"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Beatriz da Consolação Mateus Buchili is a Mozambican lawyer.",
+              "formatting": {
+                "bold": [
+                  "Beatriz da Consolação Mateus Buchili"
+                ]
+              }
+            },
+            {
+              "text": "She is the first woman to be Attorney General of Mozambique.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Attorney General of Mozambique"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mozambican lawyer",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "author": "Freedom House",
+          "title": "Freedom in the World 2015: The Annual Survey of Political Rights and Civil Liberties",
+          "url": "https://books.google.com/books?id=5WEDCwAAQBAJ&pg=PA470",
+          "year": "2015",
+          "publisher": "Rowman & Littlefield Publishers",
+          "isbn": "978-1-4422-5408-4",
+          "page": "470",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    }
+  ]
+}
