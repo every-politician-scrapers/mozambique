@@ -1,1 +1,3 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q20191958,Second Guebuza Cabinet,2010-01-18,11,2010-01-18,11,2015-01-19,11,2015-01-19,11,Q25051502,Cabinet of Mozambique,,,,,,,Q27166143,Q27166143,Q20191961,First Nyusi Cabinet
+,Q20191961,First Nyusi Cabinet,2015-01-19,11,,,2020-01-17,11,,,Q25051502,Cabinet of Mozambique,,,,,Q109947496,Second Nyusi Cabinet,Q20191958,Second Guebuza Cabinet,,
