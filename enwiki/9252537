@@ -141,50 +141,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.poptel.org.uk/mozambique-news/newsletter/aim293.html",
-          "title": "Mozambique News Agency – AIM Reports",
-          "website": "www.poptel.org.uk",
-          "access-date": "2017-07-08",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.miningweekly.com/print-version/mozambiques-government-reorganised-2015-01-30",
-          "title": "Mining Weekly – Incoming Mozambique President reorganises government",
-          "website": "www.miningweekly.com",
-          "access-date": "2017-07-08",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://allafrica.com/stories/201602060417.html",
-          "title": "Mozambique: New Members Elected to Frelimo Secretariat",
-          "date": "2016-02-06",
-          "work": "Agencia de Informacao de Mocambique (Maputo)",
-          "access-date": "2017-07-08",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://allafrica.com/stories/201602081676.html",
-          "title": "Mozambique: New Spokesperson for Frelimo",
-          "date": "2016-02-08",
-          "work": "Agencia de Informacao de Mocambique (Maputo)",
-          "access-date": "2017-07-08",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.thebusinessyear.com/mozambique-2013/experts-in-the-field/vip-interview",
-          "title": "Experts in the Field",
-          "website": "The Business Year",
-          "access-date": "2017-07-08",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
