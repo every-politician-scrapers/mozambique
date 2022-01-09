@@ -1,7 +1,7 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
 ,Q37566799,Q37566799,,,,,,,,,,,,,,,,
 ,Q38110885,Q38110885,,,,,,,,,,,,,,,,
-,Q45227343,Q45227343,,,,,,,,,,,,,,,,
+,Q45227343,2d Machel Cabinet,1975-06-25,11,,,1986-10-19,11,,,,,,,,,,
 ,Q20191958,Second Guebuza Cabinet,2010-01-18,11,2010-01-18,11,2015-01-19,11,2015-01-19,11,,,,,Q27166143,Q27166143,Q20191961,First Nyusi Cabinet
 ,Q20191961,First Nyusi Cabinet,2015-01-19,11,,,2020-01-17,11,,,,,Q109947496,Second Nyusi Cabinet,Q20191958,Second Guebuza Cabinet,,
 ,Q109947496,Second Nyusi Cabinet,2020-01-17,11,,,,,,,Q20191961,First Nyusi Cabinet,,,,,,
