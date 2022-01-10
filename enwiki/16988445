@@ -53,13 +53,8 @@
               ]
             },
             {
-              "text": "The FRELIMO government has been described as authoritarian by The Economist Intelligence Unit, Monjane et al., and Manning et al. Additionally, he has served as the Chairman of the Southern African Development Community since August 2020.",
+              "text": "Additionally, he has served as the Chairman of the Southern African Development Community since August 2020.",
               "links": [
-                {
-                  "text": "authoritarian",
-                  "type": "internal",
-                  "page": "Authoritarianism"
-                },
                 {
                   "type": "internal",
                   "page": "Southern African Development Community"
@@ -184,13 +179,27 @@
           "sentences": [
             {
               "text": "His office time has been marked by the escalation of the war in Mozambique's central and northern regions."
+            },
+            {
+              "text": "The FRELIMO government has been described as authoritarian by The Economist Intelligence Unit, Monjane et al., and Manning et al.",
+              "links": [
+                {
+                  "text": "authoritarian",
+                  "type": "internal",
+                  "page": "Authoritarianism"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Economist Intelligence Unit"
+                }
+              ]
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "Mozambican politician",
+          "description": "President of Mozambique since 2015",
           "template": "short description"
         },
         {
@@ -231,7 +240,7 @@
             "text": "Filipe Nyusi - 2019 (cropped).jpg"
           },
           "caption": {
-            "text": "Filipe Nyusi in 2019"
+            "text": "Nyusi in 2019"
           },
           "office": {
             "text": "4th President of Mozambique",
