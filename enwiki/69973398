@@ -62,6 +62,10 @@
       ],
       "templates": [
         {
+          "description": "Mozambican politician",
+          "template": "short description"
+        },
+        {
           "date": "February 2022",
           "template": "orphan"
         },
