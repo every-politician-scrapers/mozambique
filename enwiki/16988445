@@ -73,7 +73,7 @@
         {
           "sentences": [
             {
-              "text": "Nyusi served as the Minister of Defense from 2008 to 2014 under Armando Guebuza.",
+              "text": "Nyusi served as the Minister of Defence from 2008 to 2014 under Armando Guebuza.",
               "links": [
                 {
                   "type": "internal",
@@ -98,19 +98,6 @@
             },
             {
               "text": "Despite allegations of irregularities  the President of the National Election Commission stated that \"the elections were free, fair and transparent\", with the Constitutional Count verifying the result on 23 December 2019."
-            },
-            {
-              "text": "However, according to the European Union Election Observation Mission in Mozambique, Commonwealth Observer Group, and the U.S. Embassy in Mozambique, the 2019 election was characterized by instances of fraud, intimidation, and the murders of opposition leaders and election observers.",
-              "links": [
-                {
-                  "text": "Commonwealth Observer Group",
-                  "type": "internal",
-                  "page": "Commonwealth Observer Groups"
-                }
-              ]
-            },
-            {
-              "text": "The President of the National Election Commission acknowledged that the 2019 elections were marked by irregularities, stating that \"that is why when [the National Election Commission] announced the results, nobody heard [the National Election Commission] saying that the elections were free, fair and transparent.\""
             }
           ]
         },
@@ -128,69 +115,6 @@
                   "text": "rural areas",
                   "type": "internal",
                   "page": "Rural area"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Since March 2015, at least 10 high-profile figures have been killed in Mozambique."
-            },
-            {
-              "text": "These include leaders of opposition parties, journalists, and academics.",
-              "links": [
-                {
-                  "text": "journalists",
-                  "type": "internal",
-                  "page": "journalists"
-                },
-                {
-                  "text": "academics",
-                  "type": "internal",
-                  "page": "academics"
-                }
-              ]
-            },
-            {
-              "text": "Previously, no similarly defined high-profile leaders of opposition parties and academics were reported killed since the Peace Accord of 1992 between Renamo and FRELIMO."
-            },
-            {
-              "text": "Nyusi has also been accused of abuse of power; for example, some 90,000 school desks publicly delivered by Nyusi in September 2018 were manufactured by a company 50% owned by his daughter."
-            },
-            {
-              "text": "Furthermore, court documents filed by Jean Boustani in the U.S. District Court for the Eastern District of New York in 2019 and by Iskandar Safa in The High Court of Justice in London in 2021 alleged that Nyusi received up to 2 million dollars in bribes in 2014 in connection with illegal loans (also known as \"hidden debts\"), which caused an economic crisis in Mozambique when he was the Minister of Defense and/or afterward.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "U.S. District Court for the Eastern District of New York"
-                },
-                {
-                  "text": "High Court of Justice in London",
-                  "type": "internal",
-                  "page": "High Court of Justice"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "His office time has been marked by the escalation of the war in Mozambique's central and northern regions."
-            },
-            {
-              "text": "The FRELIMO government has been described as authoritarian by The Economist Intelligence Unit, Monjane et al., and Manning et al.",
-              "links": [
-                {
-                  "text": "authoritarian",
-                  "type": "internal",
-                  "page": "Authoritarianism"
-                },
-                {
-                  "type": "internal",
-                  "page": "The Economist Intelligence Unit"
                 }
               ]
             }
@@ -214,7 +138,7 @@
           "df": "yes",
           "year": "1959",
           "month": "2",
-          "day": "12",
+          "day": "09",
           "template": "birth date and age"
         },
         {
@@ -313,7 +237,7 @@
             ]
           },
           "birth_date": {
-            "text": "February 12, 1959"
+            "text": "February 9, 1959"
           },
           "birth_place": {
             "text": "Mueda, Portuguese Mozambique (now Mozambique)",
