@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Carlos Agostinho do Rosário (born 26 October 1954) is a Mozambican politician who has been Prime Minister of Mozambique since 17 January 2015.",
+              "text": "Carlos Agostinho do Rosário (born 26 October 1954) is a Mozambican politician who was the Prime Minister of Mozambique from 17 January 2015 until 3 March 2022.",
               "links": [
                 {
                   "text": "Prime Minister of Mozambique",
@@ -41,7 +41,7 @@
               }
             },
             {
-              "text": "He is a member of the FRELIMO and serves under President Filipe Nyusi.",
+              "text": "He is a member of the FRELIMO, and served under President Filipe Nyusi.",
               "links": [
                 {
                   "type": "internal",
@@ -117,12 +117,24 @@
           "term_start": {
             "text": "17 January 2015"
           },
+          "term_end": {
+            "text": "3 March 2022"
+          },
           "predecessor": {
             "text": "Alberto Vaquina",
             "links": [
               {
                 "type": "internal",
                 "page": "Alberto Vaquina"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Adriano Maleiane",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adriano Maleiane"
               }
             ]
           },
