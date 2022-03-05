@@ -191,7 +191,7 @@
             ]
           },
           "primeminister": {
-            "text": "Alberto Vaquina Carlos Agostinho do Rosário",
+            "text": "Alberto Vaquina Carlos Agostinho do Rosário Adriano Maleiane",
             "links": [
               {
                 "type": "internal",
@@ -200,6 +200,10 @@
               {
                 "type": "internal",
                 "page": "Carlos Agostinho do Rosário"
+              },
+              {
+                "type": "internal",
+                "page": "Adriano Maleiane"
               }
             ]
           },
