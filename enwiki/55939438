@@ -4,7 +4,7 @@
   "categories": [
     "1949 births",
     "Mozambican economists",
-    "Government ministers of Mozambique",
+    "Economy ministers of Mozambique",
     "Finance ministers of Mozambique",
     "Central bankers",
     "Living people",
@@ -49,6 +49,10 @@
         }
       ],
       "templates": [
+        {
+          "description": "Prime Minister of Mozambique",
+          "template": "short description"
+        },
         {
           "date": "March 2020",
           "template": "use dmy dates"
