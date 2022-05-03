@@ -10,12 +10,15 @@ class MemberList
       noko.css('td').first.text.tidy
     end
 
-    field :province do
+    field :provinceLabel do
       noko.xpath('preceding-sibling::tr[1]').text.tidy
     end
 
-    def position
-      "Governor of #{province}"
+    field :position do
+    end
+
+    field :positionLabel do
+      "Governor of #{provinceLabel}"
     end
   end
 

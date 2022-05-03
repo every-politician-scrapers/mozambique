@@ -1,11 +1,11 @@
-personLabel,provinceLabel,positionLabel
-Valygi Tualibo,Cabo Delgado,Governor of Cabo Delgado
-Judite Massengele,Niassa,Governor of Niassa
-Manuel Rodrigues,Nampula,Governor of Nampula
-Pio Augusto Matos,Zambézia,Governor of Zambézia
-Domingos Viola,Tete,Governor of Tete
-Francisca Domingos Tomás,Manica,Governor of Manica
-Lourenço Bulha,Sofala,Governor of Sofala
-Daniel Francisco Chapo,Inhambane,Governor of Inhambane
-Margarida Mapanzene,Gaza,Governor of Gaza
-Júlio Parruque,Maputo Provincia,Governor of Maputo Provincia
+name,provinceLabel,positionLabel,position
+Valygi Tualibo,Cabo Delgado,Governor of Cabo Delgado,
+Judite Massengele,Niassa,Governor of Niassa,
+Manuel Rodrigues,Nampula,Governor of Nampula,
+Pio Augusto Matos,Zambézia,Governor of Zambézia,
+Domingos Viola,Tete,Governor of Tete,
+Francisca Domingos Tomás,Manica,Governor of Manica,
+Lourenço Bulha,Sofala,Governor of Sofala,
+Daniel Francisco Chapo,Inhambane,Governor of Inhambane,
+Margarida Mapanzene,Gaza,Governor of Gaza,
+Júlio Parruque,Maputo Provincia,Governor of Maputo Provincia,
