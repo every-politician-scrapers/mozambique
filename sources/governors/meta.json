@@ -1,0 +1,15 @@
+{
+    "jurisdiction": {
+      "name": "Mozambique",
+      "id": "Q1029"
+    },
+    "source": {
+        "url":   "https://www.portaldogoverno.gov.mz/por/Governo/Governos-Provinciais",
+        "title": "Governos Provinciais / Governo / Início - Portal do Governo de Moçambique",
+        "lang":  {
+            "code": "pt",
+            "wikidata": "Q5146"
+        }
+    },
+    "agent": "every-politican-scrapers/mozambique-governors"
+}
