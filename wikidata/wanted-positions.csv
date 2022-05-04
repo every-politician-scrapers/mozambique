@@ -1,27 +1,70 @@
 position,title
 Q18565665,President
 Q30100629,Prime Minister
+Q111827908,Minister of Agriculture
+Q111827909,Minister of Agriculture and Fishing
 Q109950131,Minister of Agriculture and Rural Development
+Q111827910,Minister of Armed Forces
+Q111827912,Minister of Civil Service
+Q111827913,Minister of Civilian Household Affairs
+Q111827915,Minister of Culture
 Q109949840,Minister of Culture and Tourism
+Q111827950,"Minister of Culture, Youth and Sports"
 Q98755271,Minister of Defence
+Q111827951,Minister of Development and Planning
+Q111827952,Minister of Economic and Social Affairs
+Q111827955,Minister of Economy and Finance
 Q98755316,Minister of Economy and Finances
+Q111827956,Minister of Education
 Q51279809,Minister of Education and Culture
 Q109950218,Minister of Education and Human Development
+Q111827958,Minister of Energy
+Q111827959,Minister of Environment
+Q111827960,Minister of Finance
+Q111827961,Minister of Fishing
 Q18345272,Minister of Foreign Affairs
+Q111827962,Minister of Foreign Affairs and Cooperation
 Q109949882,"Minister of Gender, Children and Social Welfare"
 Q98966133,Minister of Health
+Q111827963,"Minister of Higher Education, Science and Technology"
 Q109949809,Minister of Industry and Trade
-Q109951016,Minister of the Interior
+Q111827965,"Minister of Industry, Commerce and Tourism"
+Q111827966,Minister of Interior
+Q111827967,Minister of Interior and Security
+Q111827968,Minister of Justice
 Q109950298,Minister of Justice and Constitutional and Religious Affairs
 Q109950203,Minister of Labour
+Q111827969,"Minister of Labour, Employment and Social Security"
 Q109950138,Minister of Land and Environment
+Q111827970,"Minister of Land, Environment and Rural Development"
+Q111827971,Minister of Mineral Resources
 Q109950037,Minister of Mineral Resources and Energy
+Q111827973,Minister of Parliamantary Affairs
+Q111827974,"Minister of Parliamentary, Municipal and Provincial Assembly Affairs"
+Q111827975,Minister of Planning and Finance
+Q111827976,Minister of Presidential Affairs
 Q109950077,Minister of Public Works
+Q111827977,Minister of Public Works and Housing
+Q111827978,"Minister of Public Works, Housing and Water Resources"
+Q111827979,Minister of Science and Technology
 Q109950672,"Minister of Science, Technology and Higher Education"
+Q111827980,"Minister of Science, Technology, and Higher, Technical and Professional Education"
+Q111827981,Minister of Social Affairs
+Q111827982,Minister of Social Matters
+Q111827984,Minister of State Administration
 Q109950551,Minister of State Administration and Public Service
+Q111827987,Minister of State Administration and the Public Service
 Q109950316,"Minister of The Sea, Inland Waters and Fisheries"
+Q111827988,"Minister of The Sea, Inland Waters and Fishing"
+Q111827990,Minister of Tourism
 Q109950952,Minister of Transport and Communications
+Q111827991,Minister of Veterans
+Q111827992,Minister of Veterans Affairs
 Q109950869,Minister of Veterans’ Affairs
+Q111827993,Minister of Women Affairs and Social Welfare
+Q111827994,Minister of Womens Affairs and Social Action
+Q111827996,Minister of Youth and Sports
+Q109951016,Minister of the Interior
 Q109950728,Minister in the President’s Office
 Q105962381,Attorney General
 Q109951706,Speaker of the Assembly
