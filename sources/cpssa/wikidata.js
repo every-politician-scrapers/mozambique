@@ -19,7 +19,18 @@ module.exports = function () {
           FILTER (!BOUND(?end) || ?end > "2000-01-01"^^xsd:dateTime)
           FILTER (?start < "2020-01-01"^^xsd:dateTime)
 
-          SERVICE wikibase:label { bd:serviceParam wikibase:language "en" }
+          OPTIONAL {
+            ?held prov:wasDerivedFrom ?ref .
+            ?ref pr:P248 wd:Q96743901 .
+            OPTIONAL { ?ref pr:P1810 ?sourceName }
+            OPTIONAL { ?ref pr:P1932 ?statedName }
+            OPTIONAL { ?ref pr:P813  ?sourceDate }
+          }
+          OPTIONAL { ?item rdfs:label ?itemEN FILTER(LANG(?itemEN) = "en") }
+          BIND(COALESCE(?sourceName, ?itemEN) AS ?itemLabel)
+
+          OPTIONAL { ?position rdfs:label ?positionEN FILTER(LANG(?positionEN) = "en") }
+          BIND(COALESCE(?statedName, ?positionEN) AS ?positionLabel)
       }
       ORDER BY ?item ?position ?start ?psid`
 }
