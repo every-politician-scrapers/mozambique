@@ -26,7 +26,7 @@ module.exports = (label,gender,party) => {
 
   return {
     type: 'item',
-    labels: { en: label },
+    labels: { en: label, pt: label },
     descriptions: { en: 'politician in Mozambique' },
     claims: claims,
   }
