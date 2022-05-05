@@ -12,13 +12,13 @@
 ->,Q19057400,Carlos do Rosario,Q30100629,Prime Minister,2015-01-19->2015-01-15,2022-03-03->2020-01-17
 ---,Q111828626,Fernando Sumbane,Q111827990,Minister of Tourism,2005-02-11,2012-10-08
 ---,Q111828626,Fernando Sumbane,Q111827990,Minister of Tourism,2000-01-17,2005-02-02
-+++,,Fernando Sumbane,Q111827990,Minister of Tourism,2000-01-17,2005-02-02
 +++,,Fernando Sumbane,Q111827990,Minister of Tourism,2005-02-11,2012-10-08
++++,,Fernando Sumbane,Q111827990,Minister of Tourism,2000-01-17,2005-02-02
 ---,Q5448556,Filipe Nyusi,Q18565665,President of Mozambique,2015-02-02,
 ---,Q63507934,Francisco Caetano Madeira,Q111827973,Minister of Parliamantary Affairs,1994-12-16,2005-02-02
 ---,Q63507934,Francisco Caetano Madeira,Q111827973,Minister of Parliamantary Affairs,2005-02-11,2010-01-19
-+++,Q63507934,Francisco Caetano Madeira,Q111827973,Minister of Parliamantary Affairs,1994-12-16,2005-02-02
 +++,Q63507934,Francisco Caetano Madeira,Q111827973,Minister of Parliamantary Affairs,2005-02-11,2010-01-19
++++,Q63507934,Francisco Caetano Madeira,Q111827973,Minister of Parliamantary Affairs,1994-12-16,2005-02-02
 ->,Q208355,Joaquim Alberto Chissano,Q18565665,President,1986-11-06->1987-01-11,2005-02-02
 ->,Q6291941,José Condungua Pacheco,Q111827908,Minister of Agriculture,2010-10-12->2015-01-15,2015-01-15->2017-12-12
 ---,Q6291941,José Condungua Pacheco,Q111827908,Minister of Agriculture,2015-01-15,2017-12-12
@@ -30,13 +30,13 @@
 ->,Q236020,Luísa Diogo->Luisa Diogo,Q30100629,Prime Minister of Mozambique->Prime Minister,2004-02-17->2005-02-11,2010-01-16->2010-01-19
 ->,Q88473923,Manuel Chang,Q98755316->Q111827960,Minister of Finance,2005-02-01->2005-02-11,2015-01-01->2015-01-15
 ->,Q19958795,Nazira Karimo Vali Abdula,Q98966133,Minister of Health,2015-01-19->2015-01-15,2020-01-17
-+++,Q58223,Oldemiro Baloi,Q111827962,Minister of Foreign Affairs and Cooperation,2008-03-27,2015-01-15
 +++,Q58223,Oldemiro Baloi,Q111827962,Minister of Foreign Affairs and Cooperation,2015-01-15,2017-12-12
++++,Q58223,Oldemiro Baloi,Q111827962,Minister of Foreign Affairs and Cooperation,2008-03-27,2015-01-15
 ---,Q58223,Oldemiro Balói,Q18345272,Minister of Foreign Affairs,2008-03-27,2017-12-12
 +++,Q7811637,Tobias Dai,Q98755271,Minister of Defence,2005-02-11,2008-03-27
 +++,Q7811637,Tobias Dai,Q98755271,Minister of Defence,2000-01-17,2005-02-02
 ---,Q7811637,Tobias Joaquim Dai,Q98755271,Defence Minister of Mozambique,2000-01-17,2008-03-26
 ---,Q111828658,Virginia Matabele,Q111827993,Minister of Women Affairs and Social Welfare,2000-01-17,2005-02-02
 ---,Q111828658,Virginia Matabele,Q111827993,Minister of Women Affairs and Social Welfare,2005-02-11,2010-01-19
-+++,,Virginia Matabele,Q111827993,Minister of Women Affairs and Social Welfare,2000-01-17,2005-02-02
 +++,,Virginia Matabele,Q111827993,Minister of Women Affairs and Social Welfare,2005-02-11,2010-01-19
++++,,Virginia Matabele,Q111827993,Minister of Women Affairs and Social Welfare,2000-01-17,2005-02-02
