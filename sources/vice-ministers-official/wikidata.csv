@@ -1,1 +1,15 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+item,name,positionItem,position,startDate,endDate,psid
+Q111831551,Henriques Bongece,Q111831552,"Ministério do Mar, Águas Interiores e Pescas",2020-01-17,,Q111831551-04C4BF21-A0C1-43A1-9CD9-C44F2DB8C16A
+Q111831604,Lucas Mangrasse,Q111831605,"Ministério do Género, Criança e Acção Social",2020-01-17,,Q111831604-9A228864-EA9E-45E4-8916-25D68578F2CD
+Q111893328,Rolinho Manuel Farnela,Q111831529,"Ministério do Trabalho, Emprego e Segurança Social",2020-01-17,,Q111893328-DEF460CC-6890-4165-9637-92CB4F8BEA8D
+Q111893339,Pedro Comissário Afonso,Q111829675,Ministério dos Negócios Estrangeiros e Cooperação,2020-01-17,,Q111893339-FB7BD539-7F78-4C95-AB8A-C8DEFAC5D3BA
+Q111893347,Olegário dos Anjos Estevão Guilherme Banze,Q111829774,Ministério da Agricultura e Desenvolvimento Rural,2020-01-17,,Q111893347-19282C9C-3A58-4C8B-B809-83AE3DC726B4
+Q111893358,Manuel Banzo,Q111829779,Ministério da Educação e Desenvolvimento Humano,2020-01-17,,Q111893358-9C676842-3409-40B8-AF53-885A9E30A20A
+Q111893360,Ludovina Bernardo,Q111829810,Ministério da Indústria e Comércio,2020-01-17,,Q111893360-B2FC2082-CEA6-4B5E-9ECE-9363D1B3CEAC
+Q111893366,Inocêncio Florentino José Impissa,Q111829767,Ministério da Administração Estatal e Função Pública,2020-01-17,,Q111893366-ECE45499-9102-4811-9129-F543AC2CCA70
+Q111893371,Fredson Victor Bravo Bacar,Q111829806,Ministério da Cultura e Turismo,2020-01-17,,Q111893371-2BB54790-F771-4CAA-BF23-48DC00484E56
+Q111893373,Filimão Joaquim Suazi,Q111829827,Ministério da Justiça e Assuntos Constitucionais e Religiosos,2020-01-17,,Q111893373-9785262A-1410-485F-8E58-55A457F7351A
+Q111893377,Cecília Sandra Jerónimo Francisco Chamutota,Q111829821,"Ministério das Obras Públicas, Habitação e Recursos Hídricos",2020-01-17,,Q111893377-77460FBC-77ED-4E15-B59D-2DDE1924DD9E
+Q111893389,Carla Alexandra Oreste do Rosário Fernandes Louveira,Q111831013,Ministério da Economia e Finanças,2020-01-17,,Q111893389-37377C59-15F6-4FC4-BE02-FD25BD648D8D
+Q111893393,Amílcar Paia Tivane,Q111831013,Ministério da Economia e Finanças,2020-01-17,,Q111893393-092CD00F-F4DC-4FC6-BA5C-B22372F37F5B
+Q27038729,Manuela Joaquim Rebelo,Q111831627,Ministério dos Transportes e Comunicações,2020-01-17,,Q27038729-9D6D8678-D766-4636-8580-17A9D597CB8A
