@@ -1,0 +1,15 @@
+{
+    "jurisdiction": {
+      "name": "Mozambique",
+      "id": "Q1029"
+    },
+    "source": {
+        "url":   "https://www.portaldogoverno.gov.mz/por/Governo/Secretarios-de-Estado",
+        "title": "Secretários de Estado / Governo / Início - Portal do Governo de Moçambique",
+        "lang":  {
+            "code": "pt",
+            "wikidata": "Q5146"
+        }
+    },
+    "agent": "every-politican-scrapers/mozambique"
+}
