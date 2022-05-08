@@ -6,14 +6,15 @@ module.exports = function (...positions) {
   positions = positions.map(value => `wd:${value}`).join(' ')
 
   return `SELECT DISTINCT ?item ?name ?position ?positionLabel
-                 ?startDate ?endDate (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
+                 ?startDate (STRAFTER(STR(?ps), STR(wds:)) AS ?psid)
     WITH {
-      SELECT DISTINCT ?item ?position ?startNode ?endNode ?ps
+      SELECT DISTINCT ?item ?position ?startNode ?jurisdiction ?endNode ?ps
       WHERE {
           VALUES ?position { ${positions} }
           ?item wdt:P31 wd:Q5 ; p:P39 ?ps .
           ?ps ps:P39 ?position .
           FILTER NOT EXISTS { ?ps wikibase:rank wikibase:DeprecatedRank }
+          OPTIONAL { ?position wdt:P1001 ?jurisdiction }
 
           ?ps pqv:P580 ?startNode
           MINUS { ?ps pq:P582 [] }
@@ -44,7 +45,8 @@ module.exports = function (...positions) {
       BIND(COALESCE(?sourceName, ?labelName) AS ?name)
 
       OPTIONAL { ?position rdfs:label ?positionEN FILTER(LANG(?positionEN) = "en") }
-      BIND(COALESCE(?statedName, ?positionEN) AS ?positionLabel)
+      OPTIONAL { ?jurisdiction rdfs:label ?jurisdictionEN FILTER(LANG(?jurisdictionEN) = "en") }
+      BIND(COALESCE(?statedName, ?jurisdictionEN, ?positionEN) AS ?positionLabel)
     }
     # ${new Date().toISOString()}
     ORDER BY ?sourceDate ?item ?psid`
