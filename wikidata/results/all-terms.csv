@@ -1,3 +1,6 @@
 ordinal,item,itemLabel,start,end,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-8,Q111840781,2015-2020 term of the Assembly of the Republic,2015-01-12,2020-01-13,2015-01-12,11,,,2020-01-13,11,,,,,Q111840794,2020- term of the Assembly of the Republic,,,,
+5,Q111904466,2000-2005 term of the Assembly of the Republic,2000-01-01,2005-01-01,2000-01-01,10,,,2005-01-01,10,,,,,Q111906750,2005-2010 term of the Assembly of the Republic,,,,
+6,Q111906750,2005-2010 term of the Assembly of the Republic,2005-01-01,2010-01-01,2005-01-01,10,,,2010-01-01,10,,,Q111904466,2000-2005 term of the Assembly of the Republic,Q111906749,2010-2015 term of the Assembly of the Republic,,,,
+7,Q111906749,2010-2015 term of the Assembly of the Republic,2010-01-01,2015-01-01,2010-01-01,10,,,2015-01-01,10,,,Q111906750,2005-2010 term of the Assembly of the Republic,Q111840781,2015-2020 term of the Assembly of the Republic,,,,
+8,Q111840781,2015-2020 term of the Assembly of the Republic,2015-01-12,2020-01-13,2015-01-12,11,,,2020-01-13,11,,,Q111906749,2010-2015 term of the Assembly of the Republic,Q111840794,2020- term of the Assembly of the Republic,,,,
 9,Q111840794,2020- term of the Assembly of the Republic,2020-01-13,,2020-01-13,11,,,,,,,Q111840781,2015-2020 term of the Assembly of the Republic,,,,,,
