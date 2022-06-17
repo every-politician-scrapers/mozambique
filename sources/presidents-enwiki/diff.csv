@@ -1,4 +1,5 @@
-@@,itemlabel,item,startdate,enddate
-+++,Joaquim Chissano,Q208355,1990-12-01,2005-02-02
-->,Armando Guebuza,Q57392,2005-02-02,2015-02-02->2015-01-15
-->,Filipe Nyusi,Q5448556,2015-02-02->2015-01-15,
+@@,item,itemlabel,startdate,enddate
+->,Q208355,Joaquim Chissano,1986-11-06,2005-02-02->1990-12-01
++++,Q208355,Joaquim Chissano,1990-12-01,2005-02-02
+->,Q57392,Armando Guebuza,2005-02-02,2015-02-02->2015-01-15
+->,Q5448556,Filipe Nyusi,2015-02-02->2015-01-15,
