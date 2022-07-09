@@ -17,10 +17,6 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[no img name start end].freeze
     end
-
-    def ignore_before
-      1990
-    end
   end
 end
 
