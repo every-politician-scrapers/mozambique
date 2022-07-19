@@ -1,0 +1,106 @@
+{
+  "title": "Hama Thai",
+  "pageID": 5426710,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Mozambican military personnel",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Antonio Hama Thai is an official in the Mozambican military.",
+              "links": [
+                {
+                  "text": "Mozambican",
+                  "type": "internal",
+                  "page": "Mozambique"
+                },
+                {
+                  "text": "military",
+                  "type": "internal",
+                  "page": "military"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Antonio Hama Thai"
+                ]
+              }
+            },
+            {
+              "text": "He has held various positions in the Mozambican government, including chief of the air force and minister for Veteran's Affairs."
+            },
+            {
+              "text": "He speaks Ndau, Shona, Russian, Portuguese, and English.",
+              "links": [
+                {
+                  "text": "Portuguese",
+                  "type": "internal",
+                  "page": "Portuguese language"
+                },
+                {
+                  "text": "English",
+                  "type": "internal",
+                  "page": "English language"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "blp": "yes",
+          "date": "September 2013",
+          "template": "no footnotes"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "url": "https://web.archive.org/web/20070928112959/http://www.firstglobalselect.com/scripts/cgiip.wsc/globalone/htm/news_article.r?vcnews-id=281327",
+          "date": "2007-09-28",
+          "template": "webarchive"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Frelimo Denies Plan to 'Finish Off' Renamo",
+            "links": [
+              {
+                "text": "Frelimo Denies Plan to 'Finish Off' Renamo",
+                "type": "external",
+                "site": "http://www.firstglobalselect.com/scripts/cgiip.wsc/globalone/htm/news_article.r?vcnews-id=281327"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

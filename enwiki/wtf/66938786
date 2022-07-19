@@ -1,0 +1,198 @@
+{
+  "title": "Beatriz Buchili",
+  "pageID": 66938786,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Federal University of Rio Grande do Sul alumni",
+    "Mozambican lawyers",
+    "Attorneys general"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Beatriz da Consolação Mateus Buchili is a Mozambican lawyer.",
+              "formatting": {
+                "bold": [
+                  "Beatriz da Consolação Mateus Buchili"
+                ]
+              }
+            },
+            {
+              "text": "She is the first woman to be Attorney General of Mozambique.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Attorney General of Mozambique"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mozambican lawyer",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "author": "Freedom House",
+          "title": "Freedom in the World 2015: The Annual Survey of Political Rights and Civil Liberties",
+          "url": "https://books.google.com/books?id=5WEDCwAAQBAJ&pg=PA470",
+          "year": "2015",
+          "publisher": "Rowman & Littlefield Publishers",
+          "isbn": "978-1-4422-5408-4",
+          "page": "470",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Beatriz Buchili has a master’s degree in law from the Federal University of Rio Grande do Sul in Brazil.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Federal University of Rio Grande do Sul"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brazil"
+                }
+              ]
+            },
+            {
+              "text": "She joined the Public Prosecutor’s Office in 1994 as a district attorney, and rose to become a deputy to the Attorney General, Augusto Paulino.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Augusto Paulino"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "President Armando Guebuza appointed Buchili to succeed Paulino as Attorney General on 21 July 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Armando Guebuza"
+                }
+              ]
+            },
+            {
+              "text": "She has presided over several high-profile corruption cases."
+            },
+            {
+              "text": "One case involves twenty indicted defendants, including Gregorio Leão, former director general of the secret services (SISE); SISE director of economic intelligence António do Rosário; Inês Moiane, private secretary to the former president Armando Guebuza; and the former president's son Armando Ndambi Guebuza.",
+              "links": [
+                {
+                  "text": "SISE",
+                  "type": "internal",
+                  "page": "State Security and Intelligence Service"
+                },
+                {
+                  "type": "internal",
+                  "page": "Armando Guebuza"
+                }
+              ]
+            },
+            {
+              "text": "Two other corruption cases are the Embraer case, related to the purchase of aircraft for the LAM Mozambique Airlines, and the Odebrecht case, relating to the construction of Nacala International Airport and the coal terminal at the Port of Beira.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "LAM Mozambique Airlines"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nacala International Airport"
+                },
+                {
+                  "type": "internal",
+                  "page": "Port of Beira"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In August 2019 President Filipe Nyusi swore Buchili in for a second five-year term as Attorney General.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Filipe Nyusi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Paulino replaced as Attorney-General",
+          "website": "Mozambique News Reports & Clippings",
+          "volume": "265",
+          "date": "13 July 2014",
+          "url": "https://www.open.ac.uk/technology/mozambique/sites/www.open.ac.uk.technology.mozambique/files/files/Mozambique_265_Renamo_arrest.pdf",
+          "access-date": "28 February 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Buchili and Munguambe terms of office end – Mozambique",
+          "website": "Club of Mozambique",
+          "date": "22 July 2019",
+          "url": "https://clubofmozambique.com/news/buchili-and-munguambe-terms-of-office-end-mozambique-137448/",
+          "access-date": "28 February 2021}} |undefined",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Mozambique: Nyusi Swears Buchili in for Second Term",
+          "newspaper": "Agencia de Informacao de Mocambique",
+          "date": "19 August 2019",
+          "url": "https://allafrica.com/stories/201908190654.html",
+          "access-date": "28 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Attorney General’s Office, Republic of Mozambique",
+          "website": "Commonwealth of Nations",
+          "url": "https://www.commonwealthofnations.org/partner/attorney_general_mozambique/",
+          "access-date": "28 February 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

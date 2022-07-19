@@ -1,0 +1,136 @@
+{
+  "title": "Eduardo Joaquim Mulémbwè",
+  "pageID": 11349947,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Presidents of the Assembly of the Republic (Mozambique)",
+    "Members of the Pan-African Parliament from Mozambique",
+    "Recipients of the Eduardo Mondlane Order",
+    "FRELIMO politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Eduardo Joaquim Mulémbwè is a politician from Mozambique.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mozambique"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Eduardo Joaquim Mulémbwè"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the FRELIMO party and president of the Assembly of the Republic of Mozambique from 1994 to 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "FRELIMO"
+                },
+                {
+                  "type": "internal",
+                  "page": "Assembly of the Republic of Mozambique"
+                }
+              ]
+            },
+            {
+              "text": "He is also a member of the Pan-African Parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pan-African Parliament"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mozambican politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Eduardo Joaquim Mulémbwè"
+          },
+          "office1": {
+            "text": "President of the Assembly of the Republic",
+            "links": [
+              {
+                "text": "Assembly of the Republic",
+                "type": "internal",
+                "page": "Assembly of the Republic (Mozambique)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "12 January 1995"
+          },
+          "term_end1": {
+            "text": "12 January 2010"
+          },
+          "predecessor1": {
+            "text": "Marcelino dos Santos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marcelino dos Santos"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Verónica Macamo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Verónica Macamo"
+              }
+            ]
+          },
+          "party": {
+            "text": "FRELIMO",
+            "links": [
+              {
+                "type": "internal",
+                "page": "FRELIMO"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "mozambique-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Felizarda Paulino",
+  "pageID": 66634529,
+  "categories": [
+    "Date of birth unknown",
+    "FRELIMO politicians",
+    "Members of the Assembly of the Republic (Mozambique)",
+    "Living people",
+    "20th-century Mozambican women politicians",
+    "20th-century Mozambican politicians",
+    "21st-century Mozambican women politicians",
+    "21st-century Mozambican politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Felizarda Paulino is a Mozambican politician.",
+              "links": [
+                {
+                  "text": "Mozambican",
+                  "type": "internal",
+                  "page": "Mozambique"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Felizarda Paulino"
+                ]
+              }
+            },
+            {
+              "text": "In 1977 she was one of the first group of women elected to the People's Assembly.",
+              "links": [
+                {
+                  "text": "People's Assembly",
+                  "type": "internal",
+                  "page": "Assembly of the Republic (Mozambique)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mozambican politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office1": {
+            "text": "Member of the People's Assembly",
+            "links": [
+              {
+                "text": "People's Assembly",
+                "type": "internal",
+                "page": "Assembly of the Republic (Mozambique)"
+              }
+            ]
+          },
+          "term1": {
+            "text": "1977–"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Paulino was a FRELIMO candidate in the 1977 parliamentary elections, in which she was one of the first group of 27 women elected to the People's Assembly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "FRELIMO"
+                },
+                {
+                  "text": "1977 parliamentary elections",
+                  "type": "internal",
+                  "page": "1977 Mozambican general election"
+                }
+              ]
+            },
+            {
+              "text": "In 2020 she was appointed to the Council of State."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "title": "Marina Pachinuapa",
+  "pageID": 66634649,
+  "categories": [
+    "Date of birth unknown",
+    "Mozambican independence activists",
+    "FRELIMO politicians",
+    "Members of the Assembly of the Republic (Mozambique)",
+    "Living people",
+    "20th-century Mozambican women politicians",
+    "20th-century Mozambican politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marina Pachinuapa is a Mozambican independence fighter and politician.",
+              "links": [
+                {
+                  "text": "Mozambican",
+                  "type": "internal",
+                  "page": "Mozambique"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marina Pachinuapa"
+                ]
+              }
+            },
+            {
+              "text": "In 1977 she was one of the first group of women elected to the People's Assembly.",
+              "links": [
+                {
+                  "text": "People's Assembly",
+                  "type": "internal",
+                  "page": "Assembly of the Republic (Mozambique)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "office1": {
+            "text": "Member of the People's Assembly",
+            "links": [
+              {
+                "text": "People's Assembly",
+                "type": "internal",
+                "page": "Assembly of the Republic (Mozambique)"
+              }
+            ]
+          },
+          "term1": {
+            "text": "1977–"
+          },
+          "constituency1": {
+            "text": "Sofala Province"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pachinuapa was involved in the Mozambican War of Independence, founding the Female Detachment of FRELIMO.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mozambican War of Independence"
+                },
+                {
+                  "type": "internal",
+                  "page": "FRELIMO"
+                }
+              ]
+            },
+            {
+              "text": "She later held the rank of colonel in the military reserve, and was among the founders of the Organization of Mozambican Women.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Organization of Mozambican Women"
+                }
+              ]
+            },
+            {
+              "text": "Following independence, she was a FRELIMO candidate in the 1977 parliamentary elections, in which she was one of the first group of 27 women elected to the People's Assembly.",
+              "links": [
+                {
+                  "text": "1977 parliamentary elections",
+                  "type": "internal",
+                  "page": "1977 Mozambican general election"
+                }
+              ]
+            },
+            {
+              "text": "She was re-elected in 1986 from Sofala Province representing Moçambique Industrial.",
+              "links": [
+                {
+                  "text": "1986",
+                  "type": "internal",
+                  "page": "1986 Mozambican general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sofala Province"
+                }
+              ]
+            },
+            {
+              "text": "In 2010 she was appointed to the National Defence and Security Council."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "mozambique-politician-stub"
+        }
+      ]
+    }
+  ]
+}

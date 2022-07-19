@@ -1,0 +1,232 @@
+{
+  "title": "Aires Ali",
+  "pageID": 25846254,
+  "categories": [
+    "1955 births",
+    "FRELIMO politicians",
+    "Education ministers of Mozambique",
+    "Culture ministers of Mozambique",
+    "Living people",
+    "Ambassadors of Mozambique to China",
+    "People named in the Pandora Papers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aires Bonifácio Baptista Ali (born 6 December 1955) is a Mozambican politician who was Prime Minister of Mozambique from 16 January 2010 to 8 October 2012, when he was sacked by Mozambican President Armando Guebuza in a cabinet reshuffle.",
+              "links": [
+                {
+                  "text": "Prime Minister of Mozambique",
+                  "type": "internal",
+                  "page": "List of heads of government of Mozambique"
+                },
+                {
+                  "type": "internal",
+                  "page": "Armando Guebuza"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Aires Bonifácio Baptista Ali"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was Governor of Inhambane Province from 2000 to 2004 and Minister of Education from 2005 to 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Inhambane Province"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed ambassador to China in June 2016 by President Filipe Nyusi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Filipe Nyusi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mozambican politician",
+          "template": "short description"
+        },
+        {
+          "year": "1955",
+          "month": "12",
+          "day": "6",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Aires Ali"
+          },
+          "image": {
+            "text": "Aires Ali.jpg"
+          },
+          "caption": {
+            "text": "Aires Ali at the start of an International Military HIV/AIDS Conference in Maputo during May 2012",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maputo"
+              }
+            ]
+          },
+          "office": {
+            "text": "4th Prime Minister of Mozambique",
+            "links": [
+              {
+                "text": "Prime Minister of Mozambique",
+                "type": "internal",
+                "page": "List of heads of government of Mozambique"
+              }
+            ]
+          },
+          "president": {
+            "text": "Armando Guebuza",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Armando Guebuza"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "16 January 2010"
+          },
+          "term_end": {
+            "text": "8 October 2012"
+          },
+          "predecessor": {
+            "text": "Luisa Diogo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luisa Diogo"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Alberto Vaquina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alberto Vaquina"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 6, 1955"
+          },
+          "party": {
+            "text": "FRELIMO",
+            "links": [
+              {
+                "type": "internal",
+                "page": "FRELIMO"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2012-10-09",
+          "title": "Mozambique president sacks PM in cabinet reshuffle",
+          "publisher": "dailytimes.com",
+          "url": "http://www.dailytimes.com.pk/default.asp?page=2012\\10\\09\\story_9-10-2012_pg4_6",
+          "accessdate": "2012-10-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2012-10-09",
+          "title": "Mozambique president sacks Prime Minister in cabinet reshuffle",
+          "publisher": "brecorder.com",
+          "url": "http://www.brecorder.com/general-news/172/1246193/",
+          "accessdate": "2012-10-09",
+          "archive-date": "2014-02-03",
+          "archive-url": "https://web.archive.org/web/20140203022615/http://www.brecorder.com/general-news/172/1246193/",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2010-01-18",
+          "title": "Mozambique: Guebuza Announces New Government",
+          "publisher": "allAfrica.com",
+          "url": "http://allafrica.com/stories/201001180720.html",
+          "accessdate": "2010-01-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Mozambican president appoints former prime minister Aires Ali ambassador to China",
+          "url": "http://clubofmozambique.com/news/mozambican-president-appoints-former-prime-minister-aires-ali-ambassador-to-china/",
+          "website": "ClubofMozambique.com",
+          "publisher": "Club of Mozambique",
+          "accessdate": "3 March 2017",
+          "date": "2016-06-02",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Luisa Diogo",
+          "template": "s-bef"
+        },
+        {
+          "title": "Prime Minister of Mozambique",
+          "years": "2010–2012",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Alberto Vaquina",
+          "template": "s-aft"
+        },
+        {
+          "template": "mozambiquepms"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "mozambique-politician-stub"
+        }
+      ]
+    }
+  ]
+}

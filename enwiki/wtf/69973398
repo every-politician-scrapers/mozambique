@@ -1,0 +1,105 @@
+{
+  "title": "Nyeleti Brooke Mondlane",
+  "pageID": 69973398,
+  "categories": [
+    "Living people",
+    "1962 births",
+    "Mozambican politicians",
+    "Members of the Assembly of the Republic (Mozambique)",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nyeleti Brooke Mondlane (born January 17, 1962 ) is a politician in Mozambique.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mozambique"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nyeleti Brooke Mondlane"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mondlane was a member of the Assembly of the Republic from 1994 to 2014.",
+              "links": [
+                {
+                  "text": "Assembly of the Republic",
+                  "type": "internal",
+                  "page": "Assembly of the Republic (Mozambique)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mondlane was the vice-minister for foreign affairs."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mondlane became the Minister of Gender, Children and Social Welfare in 2020."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mozambican politician",
+          "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "orphan"
+        },
+        {
+          "list": [
+            "Nyeleti Mondlane"
+          ],
+          "date": "February 2022",
+          "template": "expand german"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://clubofmozambique.com/who-is-who-post/nyeleti-brooke-mondlane-162749/",
+          "title": "Nyeleti Brooke Mondlane",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.portaldogoverno.gov.mz/por/Governo/Conselho-de-Ministros",
+          "title": "Conselho de Ministros / Governo / Início - Portal do Governo de Moçambique",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Stella da Graça Pinto Novo Zeca",
+  "pageID": 69973505,
+  "categories": [
+    "Mozambican politicians",
+    "Living people",
+    "Year of birth missing (living people)",
+    "Place of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Stella da Graça Pinto Novo Zeca is a politician in Mozambique.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mozambique"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Stella da Graça Pinto Novo Zeca"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Stella da Graça Pinto Novo Zeca became the governor of Gaza Province in 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gaza Province"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Filipe Nyusi appointed Stella da Graça Pinto Novo Zeca the provincial secretary for Sofala Province in 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Filipe Nyusi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sofala Province"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "February 2022",
+          "template": "orphan"
+        }
+      ],
+      "references": [
+        {
+          "title": "Subsector de caju em gaza conta com mais meios circulantes / Noticias da Provincia / Informação / Início - Portal do Governo da Provincia de Gaza",
+          "url": "https://www.gaza.gov.mz/por/Informacao/Noticias-da-Provincia/Subsector-de-caju-em-gaza-conta-com-mais-meios-circulantes",
+          "access-date": "2022-02-06",
+          "website": "www.gaza.gov.mz",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "mozambique",
+          "title": "Mozambique: President appoints provincial Secretaries of State",
+          "url": "https://clubofmozambique.com/news/mozambique-president-appoints-provincial-secretaries-of-state-150747/",
+          "access-date": "2022-02-06",
+          "website": "Mozambique",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "mozambique-politician-stub"
+        }
+      ]
+    }
+  ]
+}

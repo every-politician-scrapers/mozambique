@@ -1,0 +1,193 @@
+{
+  "title": "Isaura Nyusi",
+  "pageID": 44121272,
+  "categories": [
+    "Living people",
+    "1962 births",
+    "First Ladies of Mozambique",
+    "21st-century Mozambican women politicians",
+    "21st-century Mozambican politicians",
+    "People from Tete Province",
+    "FRELIMO politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Isaura Gonçalo Ferrão Nyusi (born October 2, 1962) is a Mozambican civil servant and educator who has served as the First Lady of Mozambique since January 15, 2015, as the wife of President Filipe Nyusi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "First Lady of Mozambique"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Mozambique"
+                },
+                {
+                  "type": "internal",
+                  "page": "Filipe Nyusi"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Isaura Gonçalo Ferrão Nyusi"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Nyusi became the President of the Organization of Mozambican Women (OMM), the women's political arm of FRELIMO, on February 11, 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Organization of Mozambican Women"
+                },
+                {
+                  "type": "internal",
+                  "page": "FRELIMO"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1962",
+          "month": "10",
+          "day": "2",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Isaura Nyusi"
+          },
+          "image name": {
+            "text": "Isaura Nyusi.jpg"
+          },
+          "office": {
+            "text": "First Lady of Mozambique",
+            "links": [
+              {
+                "type": "internal",
+                "page": "First Lady of Mozambique"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 15, 2015"
+          },
+          "predecessor": {
+            "text": "Maria da Luz Guebuza",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maria da Luz Guebuza"
+              }
+            ]
+          },
+          "president": {
+            "text": "Filipe Nyusi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Filipe Nyusi"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Isaura Gonçalo Ferrão"
+          },
+          "birth_date": {
+            "text": "October 2, 1962"
+          },
+          "birth_place": {
+            "text": "Tete, Tete Province, Portuguese Mozambique",
+            "links": [
+              {
+                "text": "Tete",
+                "type": "internal",
+                "page": "Tete, Mozambique"
+              },
+              {
+                "type": "internal",
+                "page": "Tete Province"
+              },
+              {
+                "type": "internal",
+                "page": "Portuguese Mozambique"
+              }
+            ]
+          },
+          "party": {
+            "text": "FRELIMO",
+            "links": [
+              {
+                "type": "internal",
+                "page": "FRELIMO"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Filipe Nyusi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Filipe Nyusi"
+              }
+            ]
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Gabinete Da Primeira-Dama: Maior atenção aos grupos carenciados",
+          "url": "http://www.jornalnoticias.co.mz/index.php/capital/30248-gabinete-da-primeira-dama-maior-atencao-aos-grupos-carenciados.html",
+          "work": "SAPO Moçambique",
+          "date": "2015-01-19",
+          "accessdate": "2019-05-01",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "first": "Adrian",
+          "last": "Frey",
+          "title": "Isaura Nyusi Becomes President of Frelimo Women’s League – Mozambique",
+          "url": "https://clubofmozambique.com/news/isaura-nyusi-becomes-president-of-frelimo-womens-league-mozambique/",
+          "work": "Club of Mozambique",
+          "date": "2016-02-11",
+          "accessdate": "2019-05-01",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "mozambique-bio-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "title": "Eldevina Materula",
+  "pageID": 67260678,
+  "categories": [
+    "1982 births",
+    "Living people",
+    "Women oboists",
+    "Officers of the Order of Prince Henry",
+    "Women government ministers of Mozambique",
+    "Mozambican musicians",
+    "21st-century Mozambican women politicians",
+    "Government ministers of Mozambique"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Eldevina \"Kika\" Materula (born 1982) is a Mozambican oboist who has served as Minister of Culture and Tourism in the Cabinet of Mozambique since 19 January 2020.",
+              "links": [
+                {
+                  "text": "Mozambican",
+                  "type": "internal",
+                  "page": "Mozambique"
+                },
+                {
+                  "text": "oboist",
+                  "type": "internal",
+                  "page": "oboist"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Mozambique"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Eldevina \"Kika\" Materula"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2016, she was made an Officer of the Order of Prince Henry by the President of Portugal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of Prince Henry"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of Portugal"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Mozambican musician",
+          "template": "short description"
+        },
+        {
+          "date": "March 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Minister of Culture and Tourism"
+          },
+          "termstart": {
+            "text": "19 January 2020"
+          },
+          "birth_date": {
+            "text": "1982",
+            "number": 1982
+          },
+          "birth_place": {
+            "text": "Maputo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maputo"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Silva Armando Dunduru"
+          },
+          "president": {
+            "text": "Filipe Nyusi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Filipe Nyusi"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Eldevina Materula: “Parte do que sou tem influência angolana”",
+          "url": "https://jornaldeangola.ao/ao/noticias/eldevina-materula-parte-do-que-sou-tem-influencia-angolana/",
+          "website": "Jornal de Angola",
+          "access-date": "31 March 2021",
+          "date": "7 June 2020",
+          "lang": "pt",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Estrangeiros com Ordens Portuguesas",
+          "url": "https://www.ordens.presidencia.pt/?idc=154",
+          "website": "Presidência da República Portuguesa",
+          "access-date": "31 March 2021",
+          "lang": "pt",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Materula: The Minister leaving Casa da Música orchestra to serve her country – Mozambique",
+          "url": "https://clubofmozambique.com/news/materula-the-minister-leaving-casa-da-musica-orchestra-to-serve-her-country-mozambique-150612/https://clubofmozambique.com/news/materula-the-minister-leaving-casa-da-musica-orchestra-to-serve-her-country-mozambique-150612/",
+          "website": "Club of Mozambique",
+          "date": "21 January 2020",
+          "access-date": "31 March 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
