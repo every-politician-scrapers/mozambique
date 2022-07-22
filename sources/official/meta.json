@@ -8,13 +8,16 @@
       "start": "2020-01-17",
       "parent": "Q25051502"
     },
-    "source": {
-        "url":   "https://www.portaldogoverno.gov.mz/por/Governo/Conselho-de-Ministros",
-        "title": "Membros do Conselho de Ministros",
-        "lang":  {
-            "code": "pt",
-            "wikidata": "Q5146"
+    "reference": {
+        "P854":   "https://www.portaldogoverno.gov.mz/por/Governo/Conselho-de-Ministros",
+        "P1476": {
+            "text": "Membros do Conselho de Ministros",
+            "language": "pt"
         }
     },
-    "agent": "every-politican-scrapers/mozambique-ministers"
+    "current_only": "true",
+    "lang": "pt",
+    "person_description": {
+        "en": "politician in Mozambique"
+    }
 }
