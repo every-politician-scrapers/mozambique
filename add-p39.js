@@ -6,19 +6,20 @@ module.exports = (id, position, startdate, enddate) => {
   qualifier = {
     P580: meta.cabinet.start,
   }
-  if(startdate) qualifier['P580']  = startdate
-  if(enddate)   qualifier['P582']  = enddate
 
-  reference = { }
+  refs = { }
+
   if(process.env.REF) {
     var wpref = /wikipedia.org/;
     if (wpref.test(process.env.REF)) {
-      reference['P4656'] = process.env.REF
+      refs['P4656'] = process.env.REF
     } else {
-      reference['P854'] = process.env.REF
+      refs['P854'] = process.env.REF
     }
   }
-  reference['P813'] = new Date().toISOString().split('T')[0]
+
+  if(startdate) qualifier['P580']  = startdate
+  if(enddate)   qualifier['P582']  = enddate
 
   return {
     id,
@@ -26,7 +27,7 @@ module.exports = (id, position, startdate, enddate) => {
       P39: {
         value: position,
         qualifiers: qualifier,
-        references: reference,
+        references: refs
       }
     }
   }
